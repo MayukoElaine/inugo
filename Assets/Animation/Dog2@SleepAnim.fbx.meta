@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: b8cd68a20653efc4f8253bd931c191d8
+timeCreated: 1518296459
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Dog2
+    100002: //RootNode
+    100004: Dog2joint1
+    100006: Dog2joint10
+    100008: Dog2joint11
+    100010: Dog2joint12
+    100012: Dog2joint13
+    100014: Dog2joint14
+    100016: Dog2joint15
+    100018: Dog2joint16
+    100020: Dog2joint17
+    100022: Dog2joint18
+    100024: Dog2joint19
+    100026: Dog2joint2
+    100028: Dog2joint20
+    100030: Dog2joint21
+    100032: Dog2joint22
+    100034: Dog2joint23
+    100036: Dog2joint24
+    100038: Dog2joint25
+    100040: Dog2joint26
+    100042: Dog2joint27
+    100044: Dog2joint28
+    100046: Dog2joint29
+    100048: Dog2joint3
+    100050: Dog2joint30
+    100052: Dog2joint31
+    100054: Dog2joint32
+    100056: Dog2joint33
+    100058: Dog2joint34
+    100060: Dog2joint35
+    100062: Dog2joint5
+    100064: Dog2joint6
+    100066: Dog2joint7
+    100068: Dog2joint8
+    100070: Dog2joint9
+    100072: Dog:Alsatian1
+    100074: ikHandle1
+    100076: ikHandle2
+    100078: ikHandle3
+    100080: ikHandle4
+    100082: ikHandle5
+    100084: ikHandle6
+    100086: ikHandle7
+    100088: joint1
+    100090: joint2
+    100092: joint3
+    100094: joint4
+    100096: joint5
+    100098: joint6
+    100100: nurbsCircle1
+    100102: nurbsCircle10
+    100104: nurbsCircle11
+    100106: nurbsCircle12
+    100108: nurbsCircle13
+    100110: nurbsCircle14
+    100112: nurbsCircle15
+    100114: nurbsCircle16
+    100116: nurbsCircle17
+    100118: nurbsCircle18
+    100120: nurbsCircle19
+    100122: nurbsCircle2
+    100124: nurbsCircle3
+    100126: nurbsCircle4
+    100128: nurbsCircle5
+    100130: nurbsCircle6
+    100132: nurbsCircle7
+    100134: nurbsCircle8
+    100136: nurbsCircle9
+    100138: side1
+    400000: Dog2
+    400002: //RootNode
+    400004: Dog2joint1
+    400006: Dog2joint10
+    400008: Dog2joint11
+    400010: Dog2joint12
+    400012: Dog2joint13
+    400014: Dog2joint14
+    400016: Dog2joint15
+    400018: Dog2joint16
+    400020: Dog2joint17
+    400022: Dog2joint18
+    400024: Dog2joint19
+    400026: Dog2joint2
+    400028: Dog2joint20
+    400030: Dog2joint21
+    400032: Dog2joint22
+    400034: Dog2joint23
+    400036: Dog2joint24
+    400038: Dog2joint25
+    400040: Dog2joint26
+    400042: Dog2joint27
+    400044: Dog2joint28
+    400046: Dog2joint29
+    400048: Dog2joint3
+    400050: Dog2joint30
+    400052: Dog2joint31
+    400054: Dog2joint32
+    400056: Dog2joint33
+    400058: Dog2joint34
+    400060: Dog2joint35
+    400062: Dog2joint5
+    400064: Dog2joint6
+    400066: Dog2joint7
+    400068: Dog2joint8
+    400070: Dog2joint9
+    400072: Dog:Alsatian1
+    400074: ikHandle1
+    400076: ikHandle2
+    400078: ikHandle3
+    400080: ikHandle4
+    400082: ikHandle5
+    400084: ikHandle6
+    400086: ikHandle7
+    400088: joint1
+    400090: joint2
+    400092: joint3
+    400094: joint4
+    400096: joint5
+    400098: joint6
+    400100: nurbsCircle1
+    400102: nurbsCircle10
+    400104: nurbsCircle11
+    400106: nurbsCircle12
+    400108: nurbsCircle13
+    400110: nurbsCircle14
+    400112: nurbsCircle15
+    400114: nurbsCircle16
+    400116: nurbsCircle17
+    400118: nurbsCircle18
+    400120: nurbsCircle19
+    400122: nurbsCircle2
+    400124: nurbsCircle3
+    400126: nurbsCircle4
+    400128: nurbsCircle5
+    400130: nurbsCircle6
+    400132: nurbsCircle7
+    400134: nurbsCircle8
+    400136: nurbsCircle9
+    400138: side1
+    2000000: side1
+    4300000: Dog:Alsatian1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Dog:Alsatian1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

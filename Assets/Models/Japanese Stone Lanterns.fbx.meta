@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 0c39554df21da5945ab9bd3f1215e1db
+timeCreated: 1519635402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Stone_Lantern_1
+    100004: Stone_Lantern_2
+    100006: Stone_Lantern_2_MeshPart0
+    100008: Stone_Lantern_2_MeshPart1
+    100010: Stone_Lantern_2_MeshPart2
+    100012: Stone_Lantern_3
+    100014: Stone_Lantern_3_MeshPart0
+    100016: Stone_Lantern_3_MeshPart1
+    100018: Stone_Lantern_3_MeshPart10
+    100020: Stone_Lantern_3_MeshPart11
+    100022: Stone_Lantern_3_MeshPart2
+    100024: Stone_Lantern_3_MeshPart3
+    100026: Stone_Lantern_3_MeshPart4
+    100028: Stone_Lantern_3_MeshPart5
+    100030: Stone_Lantern_3_MeshPart6
+    100032: Stone_Lantern_3_MeshPart7
+    100034: Stone_Lantern_3_MeshPart8
+    100036: Stone_Lantern_3_MeshPart9
+    400000: //RootNode
+    400002: Stone_Lantern_1
+    400004: Stone_Lantern_2
+    400006: Stone_Lantern_2_MeshPart0
+    400008: Stone_Lantern_2_MeshPart1
+    400010: Stone_Lantern_2_MeshPart2
+    400012: Stone_Lantern_3
+    400014: Stone_Lantern_3_MeshPart0
+    400016: Stone_Lantern_3_MeshPart1
+    400018: Stone_Lantern_3_MeshPart10
+    400020: Stone_Lantern_3_MeshPart11
+    400022: Stone_Lantern_3_MeshPart2
+    400024: Stone_Lantern_3_MeshPart3
+    400026: Stone_Lantern_3_MeshPart4
+    400028: Stone_Lantern_3_MeshPart5
+    400030: Stone_Lantern_3_MeshPart6
+    400032: Stone_Lantern_3_MeshPart7
+    400034: Stone_Lantern_3_MeshPart8
+    400036: Stone_Lantern_3_MeshPart9
+    2300000: Stone_Lantern_1
+    2300002: Stone_Lantern_2_MeshPart0
+    2300004: Stone_Lantern_2_MeshPart1
+    2300006: Stone_Lantern_2_MeshPart2
+    2300008: Stone_Lantern_3_MeshPart0
+    2300010: Stone_Lantern_3_MeshPart1
+    2300012: Stone_Lantern_3_MeshPart10
+    2300014: Stone_Lantern_3_MeshPart11
+    2300016: Stone_Lantern_3_MeshPart2
+    2300018: Stone_Lantern_3_MeshPart3
+    2300020: Stone_Lantern_3_MeshPart4
+    2300022: Stone_Lantern_3_MeshPart5
+    2300024: Stone_Lantern_3_MeshPart6
+    2300026: Stone_Lantern_3_MeshPart7
+    2300028: Stone_Lantern_3_MeshPart8
+    2300030: Stone_Lantern_3_MeshPart9
+    3300000: Stone_Lantern_1
+    3300002: Stone_Lantern_2_MeshPart0
+    3300004: Stone_Lantern_2_MeshPart1
+    3300006: Stone_Lantern_2_MeshPart2
+    3300008: Stone_Lantern_3_MeshPart0
+    3300010: Stone_Lantern_3_MeshPart1
+    3300012: Stone_Lantern_3_MeshPart10
+    3300014: Stone_Lantern_3_MeshPart11
+    3300016: Stone_Lantern_3_MeshPart2
+    3300018: Stone_Lantern_3_MeshPart3
+    3300020: Stone_Lantern_3_MeshPart4
+    3300022: Stone_Lantern_3_MeshPart5
+    3300024: Stone_Lantern_3_MeshPart6
+    3300026: Stone_Lantern_3_MeshPart7
+    3300028: Stone_Lantern_3_MeshPart8
+    3300030: Stone_Lantern_3_MeshPart9
+    4300000: Stone_Lantern_3_MeshPart0
+    4300002: Stone_Lantern_3_MeshPart1
+    4300004: Stone_Lantern_3_MeshPart2
+    4300006: Stone_Lantern_3_MeshPart3
+    4300008: Stone_Lantern_3_MeshPart4
+    4300010: Stone_Lantern_3_MeshPart5
+    4300012: Stone_Lantern_3_MeshPart6
+    4300014: Stone_Lantern_3_MeshPart7
+    4300016: Stone_Lantern_3_MeshPart8
+    4300018: Stone_Lantern_3_MeshPart9
+    4300020: Stone_Lantern_3_MeshPart10
+    4300022: Stone_Lantern_3_MeshPart11
+    4300024: Stone_Lantern_2_MeshPart0
+    4300026: Stone_Lantern_2_MeshPart1
+    4300028: Stone_Lantern_2_MeshPart2
+    4300030: Stone_Lantern_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

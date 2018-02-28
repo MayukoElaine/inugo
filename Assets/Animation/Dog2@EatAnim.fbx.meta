@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: d4f228cb515328840bfe3a963942bb93
+timeCreated: 1518258304
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dog2
+    100002: //RootNode
+    100004: Dog2joint1
+    100006: Dog2joint10
+    100008: Dog2joint11
+    100010: Dog2joint12
+    100012: Dog2joint13
+    100014: Dog2joint14
+    100016: Dog2joint15
+    100018: Dog2joint16
+    100020: Dog2joint17
+    100022: Dog2joint18
+    100024: Dog2joint19
+    100026: Dog2joint2
+    100028: Dog2joint20
+    100030: Dog2joint21
+    100032: Dog2joint22
+    100034: Dog2joint23
+    100036: Dog2joint24
+    100038: Dog2joint25
+    100040: Dog2joint26
+    100042: Dog2joint27
+    100044: Dog2joint28
+    100046: Dog2joint29
+    100048: Dog2joint3
+    100050: Dog2joint30
+    100052: Dog2joint31
+    100054: Dog2joint32
+    100056: Dog2joint33
+    100058: Dog2joint34
+    100060: Dog2joint35
+    100062: Dog2joint5
+    100064: Dog2joint6
+    100066: Dog2joint7
+    100068: Dog2joint8
+    100070: Dog2joint9
+    100072: Dog:Alsatian1
+    100074: side1
+    400000: Dog2
+    400002: //RootNode
+    400004: Dog2joint1
+    400006: Dog2joint10
+    400008: Dog2joint11
+    400010: Dog2joint12
+    400012: Dog2joint13
+    400014: Dog2joint14
+    400016: Dog2joint15
+    400018: Dog2joint16
+    400020: Dog2joint17
+    400022: Dog2joint18
+    400024: Dog2joint19
+    400026: Dog2joint2
+    400028: Dog2joint20
+    400030: Dog2joint21
+    400032: Dog2joint22
+    400034: Dog2joint23
+    400036: Dog2joint24
+    400038: Dog2joint25
+    400040: Dog2joint26
+    400042: Dog2joint27
+    400044: Dog2joint28
+    400046: Dog2joint29
+    400048: Dog2joint3
+    400050: Dog2joint30
+    400052: Dog2joint31
+    400054: Dog2joint32
+    400056: Dog2joint33
+    400058: Dog2joint34
+    400060: Dog2joint35
+    400062: Dog2joint5
+    400064: Dog2joint6
+    400066: Dog2joint7
+    400068: Dog2joint8
+    400070: Dog2joint9
+    400072: Dog:Alsatian1
+    400074: side1
+    2000000: side1
+    4300000: Dog:Alsatian1
+    7400000: EatAnim
+    9500000: //RootNode
+    13700000: Dog:Alsatian1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EatAnim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dog2
+        weight: 1
+      - path: Dog2/Dog2joint5
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint11
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint11/Dog2joint12
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint11/Dog2joint12/Dog2joint13
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint11/Dog2joint12/Dog2joint13/Dog2joint14
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint11/Dog2joint12/Dog2joint13/Dog2joint14/Dog2joint15
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint16
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint16/Dog2joint17
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint16/Dog2joint17/Dog2joint18
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint16/Dog2joint17/Dog2joint18/Dog2joint19
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint16/Dog2joint17/Dog2joint18/Dog2joint19/Dog2joint20
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint16/Dog2joint17/Dog2joint18/Dog2joint19/Dog2joint20/Dog2joint21
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint16/Dog2joint17/Dog2joint18/Dog2joint19/Dog2joint20/Dog2joint21/Dog2joint22
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint30
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint30/Dog2joint31
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint30/Dog2joint31/Dog2joint32
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint30/Dog2joint31/Dog2joint32/Dog2joint33
+        weight: 1
+      - path: Dog2/Dog2joint5/Dog2joint30/Dog2joint31/Dog2joint32/Dog2joint33/Dog2joint34
+        weight: 1
+      - path: Dog2/Dog2joint35
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint3
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint3/Dog2joint2
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint3/Dog2joint2/Dog2joint1
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint3/Dog2joint2/Dog2joint23
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint3/Dog2joint2/Dog2joint23/Dog2joint24
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint6
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint6/Dog2joint7
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint6/Dog2joint7/Dog2joint8
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint6/Dog2joint7/Dog2joint8/Dog2joint9
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint6/Dog2joint7/Dog2joint8/Dog2joint9/Dog2joint10
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint25
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint25/Dog2joint26
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint25/Dog2joint26/Dog2joint27
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint25/Dog2joint26/Dog2joint27/Dog2joint28
+        weight: 1
+      - path: Dog2/Dog2joint35/Dog2joint25/Dog2joint26/Dog2joint27/Dog2joint28/Dog2joint29
+        weight: 1
+      - path: Dog:Alsatian1
+        weight: 1
+      - path: side1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
